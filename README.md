@@ -68,8 +68,8 @@ When mass density exceeds the yield strength of the lattice, the vacuum undergoe
 Clone the repository and execute the master suite:
 
 ```bash
-git clone [https://github.com/](https://github.com/gomni1/SBF-Verification-Suite.git
-cd SBF-Verification-Suite
+git clone [https://github.com/gomni1/SBF.git](https://github.com/gomni1/SBF.git)
+cd "SBF/SBF PYTHON"
 python sbf_verification_suite.py
 ```
 
